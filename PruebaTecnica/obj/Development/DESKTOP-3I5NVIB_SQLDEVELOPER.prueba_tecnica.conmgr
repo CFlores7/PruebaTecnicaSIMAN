@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-3I5NVIB_SQLDEVELOPER.prueba_tecnica"
+  DTS:DTSID="{A422AE52-41C2-430F-9FDA-51F6CFEDD211}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-3I5NVIB\SQLDEVELOPER;Initial Catalog=prueba_tecnica;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-PruebaTecnica-{A422AE52-41C2-430F-9FDA-51F6CFEDD211}DESKTOP-3I5NVIB\SQLDEVELOPER.prueba_tecnica;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
